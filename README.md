@@ -25,10 +25,11 @@
 
 ## Samples
 
-### Design
+### Lo-fi Design
 ![Cover](/_README_asset/sample_lofi.png)\
 https://www.figma.com/file/19rBvUvHerBjkCOpgmDkAk/Lo-FI-Sample\
 
+### Hi-fi Design
 ![Cover](/_README_asset/sample_hifi.png)\
 https://www.figma.com/file/OMk0AAFR5zf37Hzbu55omC/Hi-FI-Sample
 
